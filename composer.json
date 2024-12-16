@@ -1,0 +1,7 @@
+{
+    "require": {
+        "bcosca/fatfree": "^3.7",
+        "ikkez/f3-cortex": "1.*",
+        "ikkez/f3-validation-engine": "^1.7"
+    }
+}
